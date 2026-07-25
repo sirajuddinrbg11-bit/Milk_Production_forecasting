@@ -1,0 +1,9 @@
+
+pandas
+numpy
+scikit-learn==1.9.0
+scikeras
+tensorflow==2.16.1 # Specify a compatible version for your environment if needed
+streamlit
+matplotlib
+joblib
